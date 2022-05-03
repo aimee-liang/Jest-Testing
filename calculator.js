@@ -4,5 +4,16 @@ calculator.add = (arg1, arg2) => {
     return arg1 + arg2
 }
 
+calculator.subtract = (arg1, arg2) => {
+    return arg1 - arg2
+}
 
-module.exports(calculator)
+calculator.exponents = (arg1, arg2) => {
+    return Math.pow(arg1, arg2)
+}
+
+calculator.squareRoot = num => {
+    return Math.sqrt(num)
+}
+
+module.exports = calculator
