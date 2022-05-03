@@ -14,3 +14,5 @@ Clone this repo to your local machine. In your terminal or IDE's terminal, run `
 
 ### Resources
 * [Official Jest Documentation](https://jestjs.io/)
+* [Jest Tutorial](https://www.softwaretestinghelp.com/jest-testing-tutorial/)
+* [Web Dev Video Tutorial](https://www.youtube.com/watch?v=FgnxcUQ5vho)
