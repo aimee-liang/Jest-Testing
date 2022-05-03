@@ -1,5 +1,3 @@
-// const { expect } = require('chai')
-// const expect = require('chai/lib/chai/interface/expect')
 const strings = require('../strings')
 
 test('Number passed in as a arg will not be evaluated as a string', () => {
